@@ -112,3 +112,5 @@ if __name__ == "__main__":
     BezierCurve([(1, 2), (3, 5)]).plot_curve()  # degree 1
     BezierCurve([(0, 0), (5, 5), (5, 0)]).plot_curve()  # degree 2
     BezierCurve([(0, 0), (5, 5), (5, 0), (2.5, -2.5)]).plot_curve()  # degree 3
+
+
