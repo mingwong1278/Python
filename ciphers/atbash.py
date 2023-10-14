@@ -1,7 +1,6 @@
 """ https://en.wikipedia.org/wiki/Atbash """
 import string
 
-
 def atbash_slow(sequence: str) -> str:
     """
     >>> atbash_slow("ABCDEFG")
